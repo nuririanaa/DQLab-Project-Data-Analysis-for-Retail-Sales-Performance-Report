@@ -1,5 +1,6 @@
 # DQLab-Project-Data-Analysis-for-Retail-Sales-Performance-Report
 Project Data Analysis for Retail Sales Performance Report - DQLab 
+
 This dataset is undertaken by the DQLab stores. The dataset  includes transactions from 2009 until 2020 consisting of 5500 rows data which is the order status divided into order finished, order returned and order canceled. 
 The dataset that has been given and will be used in this project contains the following data:
   1. OrderID
@@ -13,6 +14,7 @@ The dataset that has been given and will be used in this project contains the fo
   9. Product Category
   10. Product Sub-Category
 The table name used on this project is dqlab_sales_store
+
 DQLab wants to know :
   1A. Overall performance the DQLab Store from 2009 - 2012 to total order and total sales order finished.
   1B. Overall performance the DQLab by sub category product to be compared between 2011 and 2012.
