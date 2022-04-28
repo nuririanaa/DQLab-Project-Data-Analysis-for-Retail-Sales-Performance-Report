@@ -27,6 +27,3 @@ DQLab wants to know :
   
   3A. Analysis of customers every year.
   
-  3B. Analysis of total new customers every year.
-  
-  3C. Cohort to find out customer retention figures in 2009.
