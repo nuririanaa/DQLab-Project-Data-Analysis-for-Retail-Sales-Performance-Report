@@ -18,9 +18,15 @@ The table name used on this project is dqlab_sales_store
 DQLab wants to know :
 
   1A. Overall performance the DQLab Store from 2009 - 2012 to total order and total sales order finished.
+  
   1B. Overall performance the DQLab by sub category product to be compared between 2011 and 2012.
+  
   2A. The effectiveness and efficiency of the promotion carried out so far, by calculating the burn rate of the promotion carried out overall based on the year.
+  
   2B. Effectiveness and efficiency of promotions carried out so far, by calculating the burn rate of promotions carried out overall based on sub-categories.
+  
   3A. Analysis of customers every year.
+  
   3B. Analysis of total new customers every year.
+  
   3C. Cohort to find out customer retention figures in 2009.
